@@ -5,6 +5,7 @@ import matplotlib.pyplot as plt
 
 # Example: 20 cities with random coordinates
 num_cities = 20
+np.random.seed(42) # For reproducibility 
 city_coords = np.random.rand(num_cities, 2) * 100  # (x, y) between 0–100
 
 # Distance matrix
