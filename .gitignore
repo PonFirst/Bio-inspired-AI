@@ -1,0 +1,77 @@
+# OS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.so
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Environments
+.env
+.env.*
+.venv/
+venv/
+ENV/
+env/
+*.swp
+.python-version
+
+# Jupyter
+.ipynb_checkpoints/
+.jupyter/
+.profile
+
+# Editors/IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Logs & caches
+*.log
+logs/
+.mypy_cache/
+.pytest_cache/
+.cache/
+coverage.xml
+htmlcov/
+
+# Data/artifacts (uncomment what you want to keep out of git)
+data/
+datasets/
+outputs/
+artifacts/
+runs/
+tmp/
+*.npy
+*.npz
+*.pkl
+*.joblib
+*.csv
+*.tsv
+*.parquet
+
+# MLflow (local tracking dir)
+mlruns/
+
+# Optuna (if using local sqlite storage)
+optuna.db
+*.db
+*.db-journal
+
+# Weights & Biases (if you experiment with W&B)
+wandb/
+
+
+# Notebooks’ exported stuff
+*.ipynb_convert/
+*.checkpoint.ipynb
+
+# OS/network junk
+Thumbs.db
+Icon?
+._*
