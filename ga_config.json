@@ -1,0 +1,14 @@
+{
+  "num_generations": 2000,
+  "sol_per_pop": 80,
+  "num_parents_mating": 10,
+  "parent_selection_type": "sss",
+  "crossover_type": "single_point",
+  "mutation_type": "inversion",
+  "mutation_percent_genes": 40,
+  "keep_parents": 5,
+  "crossover_probability": 0.8,
+  "num_genes": 50,
+  "allow_duplicate_genes": false,
+  "gene_space": "range(num_cities)"
+}
