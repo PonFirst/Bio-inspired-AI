@@ -113,29 +113,29 @@ class AntColony:
                 self.pheromone[a][b] += contribution
                 self.pheromone[b][a] += contribution  # keep symmetric
 
-# -------------------
-# STEP 3: 2-opt Refinement Function
-# -------------------
-def two_opt(route, distance_matrix):
-    n = len(route)
-    improved = True
-    best_route = route.copy()
-    best_distance = sum(distance_matrix[best_route[i]][best_route[(i+1)%n]] for i in range(n))
-    while improved:
-        improved = False
-        for i in range(1, n - 2):
-            for j in range(i + 1, n):
-                if j - i == 1:
-                    continue
-                old_dist = (distance_matrix[best_route[i-1]][best_route[i]] +
-                            distance_matrix[best_route[j]][best_route[(j+1)%n]])
-                new_dist = (distance_matrix[best_route[i-1]][best_route[j]] +
-                            distance_matrix[best_route[i]][best_route[(j+1)%n]])
-                if new_dist < old_dist:
-                    best_route[i:j+1] = best_route[i:j+1][::-1]
-                    improved = True
-                    best_distance = sum(distance_matrix[best_route[k]][best_route[(k+1)%n]] for k in range(n))
-    return best_route, best_distance
+# # -------------------
+# # STEP 3: 2-opt Refinement Function
+# # -------------------
+# def two_opt(route, distance_matrix):
+#     n = len(route)
+#     improved = True
+#     best_route = route.copy()
+#     best_distance = sum(distance_matrix[best_route[i]][best_route[(i+1)%n]] for i in range(n))
+#     while improved:
+#         improved = False
+#         for i in range(1, n - 2):
+#             for j in range(i + 1, n):
+#                 if j - i == 1:
+#                     continue
+#                 old_dist = (distance_matrix[best_route[i-1]][best_route[i]] +
+#                             distance_matrix[best_route[j]][best_route[(j+1)%n]])
+#                 new_dist = (distance_matrix[best_route[i-1]][best_route[j]] +
+#                             distance_matrix[best_route[i]][best_route[(j+1)%n]])
+#                 if new_dist < old_dist:
+#                     best_route[i:j+1] = best_route[i:j+1][::-1]
+#                     improved = True
+#                     best_distance = sum(distance_matrix[best_route[k]][best_route[(k+1)%n]] for k in range(n))
+#     return best_route, best_distance
 
 # -------------------
 # STEP 4: GA Crossover Function (Order Crossover) -- compatible with pygad
@@ -181,9 +181,9 @@ def main():
     best_distance = sum(distance_matrix[best_path[i]][best_path[(i + 1) % len(best_path)]] for i in range(len(best_path)))
     print(f"[ACO] Best path length: {best_distance:.2f}")
 
-    # Apply 2-opt to ACO solution
-    aco_refined_path, aco_refined_distance = two_opt(best_path, distance_matrix)
-    print(f"[ACO + 2-opt] Refined path length: {aco_refined_distance:.2f}")
+    # # Apply 2-opt to ACO solution
+    # aco_refined_path, aco_refined_distance = two_opt(best_path, distance_matrix)
+    # print(f"[ACO + 2-opt] Refined path length: {aco_refined_distance:.2f}")
 
     # GA Fitness Function
     def fitness_function(ga_instance, solution, solution_idx):
@@ -193,11 +193,11 @@ def main():
 
     # Seed GA with ACO result
     initial_population = []
-    initial_population.append(np.array(aco_refined_path, dtype=int))  # exact ACO-refined solution
+    initial_population.append(np.array(best_path, dtype=int))  # exact ACO-refined solution
 
     # Add some shuffled variants of the ACO solution
     for _ in range(30):
-        perm = aco_refined_path.copy()
+        perm = best_path.copy()
         np.random.shuffle(perm)
         initial_population.append(np.array(perm, dtype=int))
 
@@ -246,15 +246,15 @@ def main():
     hybrid_distance = 1.0 / solution_fitness
     print(f"[Hybrid ACO+GA] Best path length: {hybrid_distance:.2f}")
 
-    # Apply 2-opt to GA solution
-    hybrid_refined_route, hybrid_refined_distance = two_opt(hybrid_route.tolist(), distance_matrix)
-    print(f"[Hybrid ACO+GA + 2-opt] Refined path length: {hybrid_refined_distance:.2f}")
+    # # Apply 2-opt to GA solution
+    # hybrid_refined_route, hybrid_refined_distance = two_opt(hybrid_route.tolist(), distance_matrix)
+    # print(f"[Hybrid ACO+GA + 2-opt] Refined path length: {hybrid_refined_distance:.2f}")
 
     # Plot Hybrid Route
     cities_array = np.array(cities)
     plt.figure(figsize=(10, 8))
     plt.scatter(cities_array[:, 0], cities_array[:, 1], c='red', s=100, alpha=0.7, zorder=5)
-    route_cities = cities_array[hybrid_refined_route]
+    route_cities = cities_array[hybrid_route]
     route_x = np.append(route_cities[:, 0], route_cities[0, 0])
     route_y = np.append(route_cities[:, 1], route_cities[0, 1])
     plt.plot(route_x, route_y, '-', linewidth=2, alpha=0.7)
@@ -263,7 +263,7 @@ def main():
     for i, (x, y) in enumerate(cities):
         plt.annotate(str(i), (x, y), xytext=(5, 5), textcoords='offset points', fontsize=9)
 
-    plt.title(f'Hybrid ACO+GA+2-opt TSP (Distance: {hybrid_refined_distance:.2f})')
+    plt.title(f'Hybrid ACO+GA+2-opt TSP (Distance: {hybrid_distance:.2f})')
     plt.xlabel('X Coordinate')
     plt.ylabel('Y Coordinate')
     plt.grid(True, alpha=0.3)
