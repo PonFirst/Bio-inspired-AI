@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/1a70174bf3eb47f480d07a93dc3db9d7/artifacts
+end_time: 1760365918632
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: 1a70174bf3eb47f480d07a93dc3db9d7
+run_name: chill-sponge-307
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365918061
+status: 3
+tags: []
+user_id: first

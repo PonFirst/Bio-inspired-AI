@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/01e26e6376c74f0797cc997144895c64/artifacts
+end_time: 1760365713383
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: 01e26e6376c74f0797cc997144895c64
+run_name: rambunctious-ray-630
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365712890
+status: 3
+tags: []
+user_id: first

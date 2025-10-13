@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/3283171219f54f02ae93567edb39b177/artifacts
+end_time: 1760365681377
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: 3283171219f54f02ae93567edb39b177
+run_name: blushing-sloth-224
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365680721
+status: 3
+tags: []
+user_id: first

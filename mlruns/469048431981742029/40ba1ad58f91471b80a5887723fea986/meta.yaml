@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/40ba1ad58f91471b80a5887723fea986/artifacts
+end_time: 1760365363029
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: 40ba1ad58f91471b80a5887723fea986
+run_name: bedecked-shrew-871
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365362254
+status: 3
+tags: []
+user_id: first

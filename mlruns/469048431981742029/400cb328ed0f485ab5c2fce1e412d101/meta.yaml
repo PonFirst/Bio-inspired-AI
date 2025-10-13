@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/400cb328ed0f485ab5c2fce1e412d101/artifacts
+end_time: 1760365360028
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: 400cb328ed0f485ab5c2fce1e412d101
+run_name: intrigued-colt-286
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365359286
+status: 3
+tags: []
+user_id: first

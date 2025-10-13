@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/fd3e21fcbe354562aa4d6f5c3cf2c305/artifacts
+end_time: 1760365366421
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: fd3e21fcbe354562aa4d6f5c3cf2c305
+run_name: skittish-lamb-533
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365365546
+status: 3
+tags: []
+user_id: first

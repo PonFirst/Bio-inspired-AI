@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/140a3266648d402aafd30ff1b8701a13/artifacts
+end_time: 1760365690446
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: 140a3266648d402aafd30ff1b8701a13
+run_name: debonair-rat-854
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365689795
+status: 3
+tags: []
+user_id: first

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/99113110a015455eacaa6803c27a55b9/artifacts
+end_time: 1760365636999
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: 99113110a015455eacaa6803c27a55b9
+run_name: grandiose-tern-878
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365636479
+status: 3
+tags: []
+user_id: first

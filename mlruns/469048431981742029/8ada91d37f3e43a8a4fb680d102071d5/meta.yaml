@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/8ada91d37f3e43a8a4fb680d102071d5/artifacts
+end_time: 1760365948249
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: 8ada91d37f3e43a8a4fb680d102071d5
+run_name: gentle-rook-322
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365947260
+status: 3
+tags: []
+user_id: first

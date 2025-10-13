@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/152b8f68a85b455aa66e62a35b2f4b38/artifacts
+end_time: 1760365276766
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: 152b8f68a85b455aa66e62a35b2f4b38
+run_name: merciful-finch-26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365276122
+status: 3
+tags: []
+user_id: first

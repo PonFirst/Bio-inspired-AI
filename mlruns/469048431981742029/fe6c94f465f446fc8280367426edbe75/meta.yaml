@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/fe6c94f465f446fc8280367426edbe75/artifacts
+end_time: 1760365344119
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: fe6c94f465f446fc8280367426edbe75
+run_name: silent-grouse-669
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365343666
+status: 3
+tags: []
+user_id: first

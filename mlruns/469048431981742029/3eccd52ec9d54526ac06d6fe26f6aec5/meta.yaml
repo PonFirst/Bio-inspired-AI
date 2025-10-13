@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/3eccd52ec9d54526ac06d6fe26f6aec5/artifacts
+end_time: 1760365987960
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: 3eccd52ec9d54526ac06d6fe26f6aec5
+run_name: dazzling-elk-905
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365986882
+status: 3
+tags: []
+user_id: first

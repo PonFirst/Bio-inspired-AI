@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/ae0f49417100474abb9212a6cf92d897/artifacts
+end_time: 1760365675718
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: ae0f49417100474abb9212a6cf92d897
+run_name: trusting-stoat-659
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365675026
+status: 3
+tags: []
+user_id: first

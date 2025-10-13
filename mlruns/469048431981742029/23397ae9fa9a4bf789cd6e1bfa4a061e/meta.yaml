@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/23397ae9fa9a4bf789cd6e1bfa4a061e/artifacts
+end_time: 1760365883235
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: 23397ae9fa9a4bf789cd6e1bfa4a061e
+run_name: likeable-bird-814
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365882819
+status: 3
+tags: []
+user_id: first

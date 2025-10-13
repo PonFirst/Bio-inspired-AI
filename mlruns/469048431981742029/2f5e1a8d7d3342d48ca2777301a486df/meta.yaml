@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/2f5e1a8d7d3342d48ca2777301a486df/artifacts
+end_time: 1760365356254
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: 2f5e1a8d7d3342d48ca2777301a486df
+run_name: bald-seal-381
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365355679
+status: 3
+tags: []
+user_id: first

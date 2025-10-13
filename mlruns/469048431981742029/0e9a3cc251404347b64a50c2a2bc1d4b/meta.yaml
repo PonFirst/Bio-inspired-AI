@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/0e9a3cc251404347b64a50c2a2bc1d4b/artifacts
+end_time: 1760365371868
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: 0e9a3cc251404347b64a50c2a2bc1d4b
+run_name: awesome-carp-663
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365371120
+status: 3
+tags: []
+user_id: first

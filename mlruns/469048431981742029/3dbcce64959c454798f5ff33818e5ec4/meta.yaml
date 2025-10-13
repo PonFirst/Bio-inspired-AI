@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/3dbcce64959c454798f5ff33818e5ec4/artifacts
+end_time: 1760365668881
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: 3dbcce64959c454798f5ff33818e5ec4
+run_name: placid-penguin-811
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365668344
+status: 3
+tags: []
+user_id: first

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/618c9f36013844609db11761768363d7/artifacts
+end_time: 1760365651785
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: 618c9f36013844609db11761768363d7
+run_name: capable-owl-92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365651045
+status: 3
+tags: []
+user_id: first

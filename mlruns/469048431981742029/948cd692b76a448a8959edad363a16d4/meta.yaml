@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/948cd692b76a448a8959edad363a16d4/artifacts
+end_time: 1760365688501
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: 948cd692b76a448a8959edad363a16d4
+run_name: calm-owl-883
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365687869
+status: 3
+tags: []
+user_id: first

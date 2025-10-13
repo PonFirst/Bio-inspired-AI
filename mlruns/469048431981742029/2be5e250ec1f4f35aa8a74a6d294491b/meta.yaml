@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/2be5e250ec1f4f35aa8a74a6d294491b/artifacts
+end_time: 1760365676722
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: 2be5e250ec1f4f35aa8a74a6d294491b
+run_name: gaudy-trout-63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365676197
+status: 3
+tags: []
+user_id: first

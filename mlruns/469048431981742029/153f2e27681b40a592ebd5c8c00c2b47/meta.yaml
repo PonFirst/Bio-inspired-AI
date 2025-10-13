@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/153f2e27681b40a592ebd5c8c00c2b47/artifacts
+end_time: 1760365349192
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: 153f2e27681b40a592ebd5c8c00c2b47
+run_name: awesome-bug-308
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365348524
+status: 3
+tags: []
+user_id: first

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/0a712cd9c3544483ac29c33a5debb0c7/artifacts
+end_time: 1760365893787
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: 0a712cd9c3544483ac29c33a5debb0c7
+run_name: resilient-hawk-319
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365893228
+status: 3
+tags: []
+user_id: first

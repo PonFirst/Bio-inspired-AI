@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/f1b6a2d7e3a54656a92cc4739b3f332e/artifacts
+end_time: 1760365326214
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: f1b6a2d7e3a54656a92cc4739b3f332e
+run_name: big-fowl-145
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365325387
+status: 3
+tags: []
+user_id: first

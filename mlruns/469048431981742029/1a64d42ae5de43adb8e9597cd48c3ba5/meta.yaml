@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/1a64d42ae5de43adb8e9597cd48c3ba5/artifacts
+end_time: 1760365280776
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: 1a64d42ae5de43adb8e9597cd48c3ba5
+run_name: vaunted-cow-600
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365280259
+status: 3
+tags: []
+user_id: first

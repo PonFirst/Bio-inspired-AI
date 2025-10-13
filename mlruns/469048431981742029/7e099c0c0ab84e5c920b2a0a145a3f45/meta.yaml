@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/7e099c0c0ab84e5c920b2a0a145a3f45/artifacts
+end_time: 1760365706691
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: 7e099c0c0ab84e5c920b2a0a145a3f45
+run_name: polite-wolf-4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365706108
+status: 3
+tags: []
+user_id: first

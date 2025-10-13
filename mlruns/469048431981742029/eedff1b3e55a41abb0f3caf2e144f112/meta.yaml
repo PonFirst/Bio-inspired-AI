@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/eedff1b3e55a41abb0f3caf2e144f112/artifacts
+end_time: 1760365882381
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: eedff1b3e55a41abb0f3caf2e144f112
+run_name: loud-moose-792
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365881982
+status: 3
+tags: []
+user_id: first

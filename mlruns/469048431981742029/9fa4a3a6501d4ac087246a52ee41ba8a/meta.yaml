@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/9fa4a3a6501d4ac087246a52ee41ba8a/artifacts
+end_time: 1760365339326
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: 9fa4a3a6501d4ac087246a52ee41ba8a
+run_name: whimsical-bird-286
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365338293
+status: 3
+tags: []
+user_id: first

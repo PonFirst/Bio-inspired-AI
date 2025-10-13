@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/e868c58e6a8e4d1aa04d360552906e06/artifacts
+end_time: 1760365707926
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: e868c58e6a8e4d1aa04d360552906e06
+run_name: stately-toad-132
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365707324
+status: 3
+tags: []
+user_id: first

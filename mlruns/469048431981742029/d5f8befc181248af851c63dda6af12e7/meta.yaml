@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/d5f8befc181248af851c63dda6af12e7/artifacts
+end_time: 1760365680720
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: d5f8befc181248af851c63dda6af12e7
+run_name: sedate-grub-569
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365680090
+status: 3
+tags: []
+user_id: first

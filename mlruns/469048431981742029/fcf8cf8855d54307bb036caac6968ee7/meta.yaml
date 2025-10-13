@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/fcf8cf8855d54307bb036caac6968ee7/artifacts
+end_time: 1760365678266
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: fcf8cf8855d54307bb036caac6968ee7
+run_name: resilient-dog-491
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365677761
+status: 3
+tags: []
+user_id: first

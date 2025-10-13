@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/9170422b8d0641a082525003b3a9d33d/artifacts
+end_time: 1760365704422
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: 9170422b8d0641a082525003b3a9d33d
+run_name: nosy-skink-400
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365703994
+status: 3
+tags: []
+user_id: first

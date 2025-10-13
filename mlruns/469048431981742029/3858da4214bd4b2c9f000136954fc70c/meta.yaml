@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/3858da4214bd4b2c9f000136954fc70c/artifacts
+end_time: 1760365312692
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: 3858da4214bd4b2c9f000136954fc70c
+run_name: handsome-frog-858
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365311982
+status: 3
+tags: []
+user_id: first

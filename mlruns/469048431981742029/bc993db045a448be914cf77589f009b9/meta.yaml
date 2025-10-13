@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/bc993db045a448be914cf77589f009b9/artifacts
+end_time: 1760365290669
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: bc993db045a448be914cf77589f009b9
+run_name: enchanting-yak-886
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365290089
+status: 3
+tags: []
+user_id: first

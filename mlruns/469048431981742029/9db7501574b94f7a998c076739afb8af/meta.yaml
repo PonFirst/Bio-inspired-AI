@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/9db7501574b94f7a998c076739afb8af/artifacts
+end_time: 1760365891344
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: 9db7501574b94f7a998c076739afb8af
+run_name: clean-smelt-743
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365890871
+status: 3
+tags: []
+user_id: first

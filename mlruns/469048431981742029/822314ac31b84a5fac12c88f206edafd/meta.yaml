@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/822314ac31b84a5fac12c88f206edafd/artifacts
+end_time: 1760365917042
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: 822314ac31b84a5fac12c88f206edafd
+run_name: defiant-chimp-300
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365916615
+status: 3
+tags: []
+user_id: first

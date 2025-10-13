@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/653a961aae3047dca5148c81a2b76566/artifacts
+end_time: 1760365283051
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: 653a961aae3047dca5148c81a2b76566
+run_name: likeable-moth-20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365282424
+status: 3
+tags: []
+user_id: first

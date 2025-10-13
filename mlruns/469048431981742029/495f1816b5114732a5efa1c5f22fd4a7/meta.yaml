@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/495f1816b5114732a5efa1c5f22fd4a7/artifacts
+end_time: 1760365949257
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: 495f1816b5114732a5efa1c5f22fd4a7
+run_name: abundant-elk-729
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365948250
+status: 3
+tags: []
+user_id: first

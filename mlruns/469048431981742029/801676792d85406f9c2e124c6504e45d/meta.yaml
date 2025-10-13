@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/801676792d85406f9c2e124c6504e45d/artifacts
+end_time: 1760365899545
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: 801676792d85406f9c2e124c6504e45d
+run_name: dapper-moose-781
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365898809
+status: 3
+tags: []
+user_id: first

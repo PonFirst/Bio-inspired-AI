@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/b448a2f13dc24e5d87619ed1835d07be/artifacts
+end_time: 1760365709250
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: b448a2f13dc24e5d87619ed1835d07be
+run_name: spiffy-crane-306
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365708566
+status: 3
+tags: []
+user_id: first
