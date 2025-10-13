@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/591b1562a9b0471c9dc565c68acba228/artifacts
+end_time: 1760365886766
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: 591b1562a9b0471c9dc565c68acba228
+run_name: blushing-goose-575
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365886230
+status: 3
+tags: []
+user_id: first

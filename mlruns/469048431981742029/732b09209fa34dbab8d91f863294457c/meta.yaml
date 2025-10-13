@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/732b09209fa34dbab8d91f863294457c/artifacts
+end_time: 1760365965158
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: 732b09209fa34dbab8d91f863294457c
+run_name: nosy-shrew-947
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365964585
+status: 3
+tags: []
+user_id: first

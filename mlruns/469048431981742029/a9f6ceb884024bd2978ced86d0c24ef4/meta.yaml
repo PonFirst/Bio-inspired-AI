@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/a9f6ceb884024bd2978ced86d0c24ef4/artifacts
+end_time: 1760365305697
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: a9f6ceb884024bd2978ced86d0c24ef4
+run_name: calm-bee-938
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365305198
+status: 3
+tags: []
+user_id: first

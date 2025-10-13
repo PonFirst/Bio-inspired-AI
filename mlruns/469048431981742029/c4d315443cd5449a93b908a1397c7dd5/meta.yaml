@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/c4d315443cd5449a93b908a1397c7dd5/artifacts
+end_time: 1760365711414
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: c4d315443cd5449a93b908a1397c7dd5
+run_name: omniscient-bass-484
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365710682
+status: 3
+tags: []
+user_id: first

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/be54d4d18447484a906600c867545918/artifacts
+end_time: 1760365689794
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: be54d4d18447484a906600c867545918
+run_name: peaceful-snake-944
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365689134
+status: 3
+tags: []
+user_id: first

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/c98f43dba9134464ad04ec234a8b20cf/artifacts
+end_time: 1760365896130
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: c98f43dba9134464ad04ec234a8b20cf
+run_name: loud-crow-234
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365895545
+status: 3
+tags: []
+user_id: first

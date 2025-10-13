@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/267a95a2341942ab90aeb8e6191bf1da/artifacts
+end_time: 1760365337275
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: 267a95a2341942ab90aeb8e6191bf1da
+run_name: useful-sponge-624
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365336377
+status: 3
+tags: []
+user_id: first

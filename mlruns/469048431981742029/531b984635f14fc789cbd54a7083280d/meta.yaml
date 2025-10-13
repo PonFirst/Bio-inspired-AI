@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/531b984635f14fc789cbd54a7083280d/artifacts
+end_time: 1760365325387
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: 531b984635f14fc789cbd54a7083280d
+run_name: chill-moth-535
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365324603
+status: 3
+tags: []
+user_id: first

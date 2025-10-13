@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/2eede74a8b704b449402f8fe1aed1c2c/artifacts
+end_time: 1760365656799
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: 2eede74a8b704b449402f8fe1aed1c2c
+run_name: spiffy-chimp-858
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365656027
+status: 3
+tags: []
+user_id: first

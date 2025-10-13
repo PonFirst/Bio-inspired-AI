@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/b279b39a29d24d77b9fb202e3cb06e79/artifacts
+end_time: 1760365890426
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: b279b39a29d24d77b9fb202e3cb06e79
+run_name: salty-gnat-385
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365889793
+status: 3
+tags: []
+user_id: first

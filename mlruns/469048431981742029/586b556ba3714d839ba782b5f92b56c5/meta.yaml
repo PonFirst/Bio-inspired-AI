@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/586b556ba3714d839ba782b5f92b56c5/artifacts
+end_time: 1760365727552
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: 586b556ba3714d839ba782b5f92b56c5
+run_name: silent-yak-947
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365726851
+status: 3
+tags: []
+user_id: first

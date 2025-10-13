@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/e51f36986ad74ec29d3cb5a574bc9f89/artifacts
+end_time: 1760365732394
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: e51f36986ad74ec29d3cb5a574bc9f89
+run_name: skillful-stork-740
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365731506
+status: 3
+tags: []
+user_id: first

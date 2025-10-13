@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/ac4cb77fb19048d6b5bdab77ee3d3e04/artifacts
+end_time: 1760365916614
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: ac4cb77fb19048d6b5bdab77ee3d3e04
+run_name: zealous-ray-959
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365916148
+status: 3
+tags: []
+user_id: first

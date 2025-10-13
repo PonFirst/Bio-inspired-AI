@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/0bcd6285ed6c4d6d97a66b72bddd02a3/artifacts
+end_time: 1760365882818
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: 0bcd6285ed6c4d6d97a66b72bddd02a3
+run_name: trusting-bird-611
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365882382
+status: 3
+tags: []
+user_id: first

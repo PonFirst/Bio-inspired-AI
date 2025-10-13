@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/c57d7a756a384da8a7f786401a4278a1/artifacts
+end_time: 1760365912899
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: c57d7a756a384da8a7f786401a4278a1
+run_name: unique-rat-732
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365911930
+status: 3
+tags: []
+user_id: first

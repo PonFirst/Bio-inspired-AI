@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/60d198bce8fe421790f01984e9411715/artifacts
+end_time: 1760365953117
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: 60d198bce8fe421790f01984e9411715
+run_name: vaunted-toad-528
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365952647
+status: 3
+tags: []
+user_id: first

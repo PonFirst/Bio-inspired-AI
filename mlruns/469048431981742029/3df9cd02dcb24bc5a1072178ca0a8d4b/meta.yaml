@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/3df9cd02dcb24bc5a1072178ca0a8d4b/artifacts
+end_time: 1760365933331
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: 3df9cd02dcb24bc5a1072178ca0a8d4b
+run_name: painted-perch-851
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365932573
+status: 3
+tags: []
+user_id: first

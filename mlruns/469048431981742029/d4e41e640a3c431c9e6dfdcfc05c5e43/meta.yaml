@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/d4e41e640a3c431c9e6dfdcfc05c5e43/artifacts
+end_time: 1760365884173
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: d4e41e640a3c431c9e6dfdcfc05c5e43
+run_name: orderly-foal-741
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365883675
+status: 3
+tags: []
+user_id: first

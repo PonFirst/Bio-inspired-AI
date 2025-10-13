@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/515cd636ee2e467b8b7dd20d20e37311/artifacts
+end_time: 1760365314111
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: 515cd636ee2e467b8b7dd20d20e37311
+run_name: efficient-shark-475
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365313380
+status: 3
+tags: []
+user_id: first

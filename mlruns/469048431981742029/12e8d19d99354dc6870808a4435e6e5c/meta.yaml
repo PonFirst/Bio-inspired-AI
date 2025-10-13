@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/12e8d19d99354dc6870808a4435e6e5c/artifacts
+end_time: 1760365354350
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: 12e8d19d99354dc6870808a4435e6e5c
+run_name: capricious-pig-545
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365353594
+status: 3
+tags: []
+user_id: first

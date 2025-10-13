@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/663ac25b0d9a406989b4ff6e927c6034/artifacts
+end_time: 1760365725410
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: 663ac25b0d9a406989b4ff6e927c6034
+run_name: merciful-wren-56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365724546
+status: 3
+tags: []
+user_id: first

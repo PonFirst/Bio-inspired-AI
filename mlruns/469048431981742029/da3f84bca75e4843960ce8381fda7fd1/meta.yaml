@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/da3f84bca75e4843960ce8381fda7fd1/artifacts
+end_time: 1760365968575
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: da3f84bca75e4843960ce8381fda7fd1
+run_name: spiffy-bear-571
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365967886
+status: 3
+tags: []
+user_id: first

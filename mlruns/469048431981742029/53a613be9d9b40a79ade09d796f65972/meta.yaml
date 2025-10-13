@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/53a613be9d9b40a79ade09d796f65972/artifacts
+end_time: 1760365734255
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: 53a613be9d9b40a79ade09d796f65972
+run_name: bald-moose-530
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365733324
+status: 3
+tags: []
+user_id: first

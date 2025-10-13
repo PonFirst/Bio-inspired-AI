@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/00bf7746c5b842dfba1057dfa50ea183/artifacts
+end_time: 1760365983723
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: 00bf7746c5b842dfba1057dfa50ea183
+run_name: unique-squid-718
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365982803
+status: 3
+tags: []
+user_id: first

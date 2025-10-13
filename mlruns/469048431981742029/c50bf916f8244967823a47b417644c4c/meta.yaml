@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/c50bf916f8244967823a47b417644c4c/artifacts
+end_time: 1760365731505
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: c50bf916f8244967823a47b417644c4c
+run_name: resilient-sheep-905
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365730630
+status: 3
+tags: []
+user_id: first

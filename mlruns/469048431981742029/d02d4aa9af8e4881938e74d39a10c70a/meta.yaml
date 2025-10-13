@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/d02d4aa9af8e4881938e74d39a10c70a/artifacts
+end_time: 1760365306152
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: d02d4aa9af8e4881938e74d39a10c70a
+run_name: abundant-dog-941
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365305698
+status: 3
+tags: []
+user_id: first

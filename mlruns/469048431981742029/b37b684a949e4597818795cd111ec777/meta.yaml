@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/b37b684a949e4597818795cd111ec777/artifacts
+end_time: 1760365357967
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: b37b684a949e4597818795cd111ec777
+run_name: fortunate-worm-691
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365357407
+status: 3
+tags: []
+user_id: first

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/da34d060434641c0afe5bf0fd64f4ad7/artifacts
+end_time: 1760365343665
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: da34d060434641c0afe5bf0fd64f4ad7
+run_name: orderly-fawn-311
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365342530
+status: 3
+tags: []
+user_id: first

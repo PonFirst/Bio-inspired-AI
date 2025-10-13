@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/473cba5cc8e24e4b87f746aa3e55ed97/artifacts
+end_time: 1760365898101
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: 473cba5cc8e24e4b87f746aa3e55ed97
+run_name: debonair-mouse-222
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365897406
+status: 3
+tags: []
+user_id: first

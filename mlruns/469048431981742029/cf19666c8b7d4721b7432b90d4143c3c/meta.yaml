@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/cf19666c8b7d4721b7432b90d4143c3c/artifacts
+end_time: 1760365903309
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: cf19666c8b7d4721b7432b90d4143c3c
+run_name: omniscient-ram-13
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365902716
+status: 3
+tags: []
+user_id: first

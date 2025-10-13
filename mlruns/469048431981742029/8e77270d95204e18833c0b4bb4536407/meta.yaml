@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/8e77270d95204e18833c0b4bb4536407/artifacts
+end_time: 1760365333756
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: 8e77270d95204e18833c0b4bb4536407
+run_name: luminous-wasp-114
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365332922
+status: 3
+tags: []
+user_id: first

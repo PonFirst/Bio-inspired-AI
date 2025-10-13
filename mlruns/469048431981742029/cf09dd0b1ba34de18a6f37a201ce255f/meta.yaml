@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/cf09dd0b1ba34de18a6f37a201ce255f/artifacts
+end_time: 1760365680089
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: cf09dd0b1ba34de18a6f37a201ce255f
+run_name: thoughtful-fowl-221
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365679437
+status: 3
+tags: []
+user_id: first

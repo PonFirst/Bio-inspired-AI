@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/5181152133cb422e9decb5a0aff8b0ce/artifacts
+end_time: 1760365381470
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: 5181152133cb422e9decb5a0aff8b0ce
+run_name: glamorous-smelt-403
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365380382
+status: 3
+tags: []
+user_id: first

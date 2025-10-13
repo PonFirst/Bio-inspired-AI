@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/be46d97caffb4f758eb17d702f70303d/artifacts
+end_time: 1760365273663
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: be46d97caffb4f758eb17d702f70303d
+run_name: persistent-deer-909
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365273102
+status: 3
+tags: []
+user_id: first

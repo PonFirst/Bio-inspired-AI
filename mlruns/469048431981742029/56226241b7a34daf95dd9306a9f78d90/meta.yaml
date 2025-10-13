@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/56226241b7a34daf95dd9306a9f78d90/artifacts
+end_time: 1760365648214
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: 56226241b7a34daf95dd9306a9f78d90
+run_name: adaptable-mole-236
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365647543
+status: 3
+tags: []
+user_id: first

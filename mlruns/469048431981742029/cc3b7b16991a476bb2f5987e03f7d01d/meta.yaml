@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/cc3b7b16991a476bb2f5987e03f7d01d/artifacts
+end_time: 1760365677760
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: cc3b7b16991a476bb2f5987e03f7d01d
+run_name: charming-smelt-76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365677223
+status: 3
+tags: []
+user_id: first

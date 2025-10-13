@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/09ef3cc155534a1c8f1557872cade73f/artifacts
+end_time: 1760365932572
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: 09ef3cc155534a1c8f1557872cade73f
+run_name: colorful-ram-811
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365931846
+status: 3
+tags: []
+user_id: first

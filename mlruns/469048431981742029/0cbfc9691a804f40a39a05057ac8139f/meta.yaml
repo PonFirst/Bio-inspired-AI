@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/0cbfc9691a804f40a39a05057ac8139f/artifacts
+end_time: 1760365642573
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: 0cbfc9691a804f40a39a05057ac8139f
+run_name: amusing-grub-474
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365642124
+status: 3
+tags: []
+user_id: first

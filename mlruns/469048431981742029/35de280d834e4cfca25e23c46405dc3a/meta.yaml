@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/35de280d834e4cfca25e23c46405dc3a/artifacts
+end_time: 1760365967178
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: 35de280d834e4cfca25e23c46405dc3a
+run_name: abrasive-bat-519
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365966511
+status: 3
+tags: []
+user_id: first

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/6efdd9e9917d4af889e60262ff76dbf9/artifacts
+end_time: 1760365694419
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: 6efdd9e9917d4af889e60262ff76dbf9
+run_name: burly-donkey-559
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365693573
+status: 3
+tags: []
+user_id: first

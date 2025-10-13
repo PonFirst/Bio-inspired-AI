@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/cae14e6f8bde47d4a8be59c95d563fd3/artifacts
+end_time: 1760365356806
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: cae14e6f8bde47d4a8be59c95d563fd3
+run_name: capable-bear-160
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365356254
+status: 3
+tags: []
+user_id: first

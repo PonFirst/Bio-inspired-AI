@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/7f9d034784c44da79b4901c0be694763/artifacts
+end_time: 1760365281285
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: 7f9d034784c44da79b4901c0be694763
+run_name: resilient-cat-617
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365280777
+status: 3
+tags: []
+user_id: first

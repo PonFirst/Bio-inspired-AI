@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/first/Desktop/Bio-inspired%20AI/mlruns/469048431981742029/273689abfe7849d9b89d1606a0fa100a/artifacts
+end_time: 1760365345077
+entry_point_name: ''
+experiment_id: '469048431981742029'
+lifecycle_stage: active
+run_id: 273689abfe7849d9b89d1606a0fa100a
+run_name: bustling-snail-198
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760365344622
+status: 3
+tags: []
+user_id: first
